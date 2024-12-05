@@ -9,23 +9,30 @@
             char[] characters = input.ToArray();
 
 
-            Stack<char> stack = new Stack<char>(characters);
+            Stack<char> stack = new Stack<char>();
+            Stack<char> stack2 = new Stack<char>();
 
             for (int i = 0; i < characters.Length; i++)
             {
-                if (characters[i] == '(' || characters[i] == ')')
+                if (characters[i] == '(')
                 {
                     stack.Push(characters[i]);
                 }
+
+                if (characters[i] == ')')
+                {
+                    stack2.Push(characters[i]);
+
+                }
             }
 
-            if (stack.Count % 2 == 0)
+            if (stack2.Count == stack.Count)
             {
-                Console.WriteLine("skobite sa ravni");
+                Console.WriteLine("The bricks are equal");
             }
             else
             {
-                Console.WriteLine("Skobite ne sa ravni");
+                Console.WriteLine("The bricks are not equal");
             }
         }
     }
