@@ -1,0 +1,14 @@
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\bin\Debug\net8.0\Zadacha skobi.exe
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\bin\Debug\net8.0\Zadacha skobi.deps.json
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\bin\Debug\net8.0\Zadacha skobi.runtimeconfig.json
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\bin\Debug\net8.0\Zadacha skobi.dll
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\bin\Debug\net8.0\Zadacha skobi.pdb
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.AssemblyInfo.cs
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.dll
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\refint\Zadacha skobi.dll
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.pdb
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\Zadacha skobi.genruntimeconfig.cache
+C:\Users\milen\Desktop\School programing\Domashna 06.12.24\Zadacha skobi\obj\Debug\net8.0\ref\Zadacha skobi.dll
