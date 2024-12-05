@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\School programing\\Domashna 06.12.24\\",
+  "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EC6BEDC-9162-4735-9780-6C2D0E30EAE4}|Zadacha skobi\\Zadacha skobi.csproj|c:\\users\\milen\\desktop\\school programing\\domashna 06.12.24\\zadacha skobi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC914ED9-3E64-4D0F-B6A8-3E28B0365614}|Palindrom\\Palindrom.csproj|c:\\users\\milen\\desktop\\visual studio\\school-programing\\domashna 06.12.24\\palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC914ED9-3E64-4D0F-B6A8-3E28B0365614}|Palindrom\\Palindrom.csproj|solutionrelative:palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6BEDC-9162-4735-9780-6C2D0E30EAE4}|Zadacha skobi\\Zadacha skobi.csproj|c:\\users\\milen\\desktop\\visual studio\\school-programing\\domashna 06.12.24\\zadacha skobi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC6BEDC-9162-4735-9780-6C2D0E30EAE4}|Zadacha skobi\\Zadacha skobi.csproj|solutionrelative:zadacha skobi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,18 +28,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\School programing\\Domashna 06.12.24\\Zadacha skobi\\Program.cs",
-              "RelativeDocumentMoniker": "Zadacha skobi\\Program.cs",
-              "ToolTip": "C:\\Users\\milen\\Desktop\\School programing\\Domashna 06.12.24\\Zadacha skobi\\Program.cs",
-              "RelativeToolTip": "Zadacha skobi\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBUAAAAlAAAA",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrom\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Program.cs",
+              "RelativeToolTip": "Palindrom\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T13:26:34.821Z",
+              "WhenOpened": "2024-12-05T14:08:04.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{543d4543-bb45-5b56-8c02-b06ad75836e1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha skobi\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Program.cs",
+              "RelativeToolTip": "Zadacha skobi\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA3wBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:26:34.821Z",
+              "EditorCaption": ""
             }
           ]
         }

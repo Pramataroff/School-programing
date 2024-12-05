@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Zadacha skobi.csproj": {}
+    "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Palindrom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Zadacha skobi.csproj": {
+    "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Palindrom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Zadacha skobi.csproj",
-        "projectName": "Zadacha skobi",
-        "projectPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Zadacha skobi.csproj",
+        "projectUniqueName": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Palindrom.csproj",
+        "projectName": "Palindrom",
+        "projectPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Palindrom.csproj",
         "packagesPath": "C:\\Users\\milen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\obj\\",
+        "outputPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

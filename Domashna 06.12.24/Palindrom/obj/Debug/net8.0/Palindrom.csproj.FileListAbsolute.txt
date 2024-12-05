@@ -1,0 +1,15 @@
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\bin\Debug\net8.0\Palindrom.exe
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\bin\Debug\net8.0\Palindrom.deps.json
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\bin\Debug\net8.0\Palindrom.runtimeconfig.json
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\bin\Debug\net8.0\Palindrom.dll
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\bin\Debug\net8.0\Palindrom.pdb
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.AssemblyInfo.cs
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.sourcelink.json
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.dll
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\refint\Palindrom.dll
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.pdb
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\Palindrom.genruntimeconfig.cache
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Palindrom\obj\Debug\net8.0\ref\Palindrom.dll
