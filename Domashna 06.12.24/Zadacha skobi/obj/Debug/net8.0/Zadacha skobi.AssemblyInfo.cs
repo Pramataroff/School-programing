@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zadacha skobi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e51628a117171cea44547d63088db0be3650d0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+611fca1d189dfe5337c684bf01c3415f509e6382")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zadacha skobi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zadacha skobi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\bin\Debug\net8.0\Sentence reverser.exe
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\bin\Debug\net8.0\Sentence reverser.deps.json
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\bin\Debug\net8.0\Sentence reverser.runtimeconfig.json
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\bin\Debug\net8.0\Sentence reverser.dll
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\bin\Debug\net8.0\Sentence reverser.pdb
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.AssemblyInfo.cs
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.sourcelink.json
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.dll
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\refint\Sentence reverser.dll
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.pdb
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\Sentence reverser.genruntimeconfig.cache
+C:\Users\milen\Desktop\Visual Studio\School-programing\Domashna 06.12.24\Sentence reverser\obj\Debug\net8.0\ref\Sentence reverser.dll

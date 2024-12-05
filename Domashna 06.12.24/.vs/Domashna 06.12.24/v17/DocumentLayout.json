@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C03E86F4-4C7B-43DD-830D-E7D07E8A1A14}|Sentence reverser\\Sentence reverser.csproj|c:\\users\\milen\\desktop\\visual studio\\school-programing\\domashna 06.12.24\\sentence reverser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03E86F4-4C7B-43DD-830D-E7D07E8A1A14}|Sentence reverser\\Sentence reverser.csproj|solutionrelative:sentence reverser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EC6BEDC-9162-4735-9780-6C2D0E30EAE4}|Zadacha skobi\\Zadacha skobi.csproj|c:\\users\\milen\\desktop\\visual studio\\school-programing\\domashna 06.12.24\\zadacha skobi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC6BEDC-9162-4735-9780-6C2D0E30EAE4}|Zadacha skobi\\Zadacha skobi.csproj|solutionrelative:zadacha skobi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Sentence reverser\\Program.cs",
+              "RelativeDocumentMoniker": "Sentence reverser\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Sentence reverser\\Program.cs",
+              "RelativeToolTip": "Sentence reverser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:11:20.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\word count\\Program.cs",
               "RelativeDocumentMoniker": "word count\\Program.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "word count\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T20:02:33.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T20:02:33.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Palindrom\\Program.cs",
               "RelativeDocumentMoniker": "Palindrom\\Program.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "Palindrom\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:08:04.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T14:08:04.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\School-programing\\Domashna 06.12.24\\Zadacha skobi\\Program.cs",
               "RelativeDocumentMoniker": "Zadacha skobi\\Program.cs",
