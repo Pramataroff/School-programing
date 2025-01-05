@@ -1,0 +1,14 @@
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\bin\Debug\net8.0\Zadacha 2 02.12.24.exe
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\bin\Debug\net8.0\Zadacha 2 02.12.24.deps.json
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\bin\Debug\net8.0\Zadacha 2 02.12.24.runtimeconfig.json
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\bin\Debug\net8.0\Zadacha 2 02.12.24.dll
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\bin\Debug\net8.0\Zadacha 2 02.12.24.pdb
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.AssemblyInfo.cs
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.dll
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\refint\Zadacha 2 02.12.24.dll
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.pdb
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\Zadacha 2 02.12.24.genruntimeconfig.cache
+C:\Users\milen\Desktop\School programing\Zadacha 2 02.12.24\Zadacha 2 02.12.24\obj\Debug\net8.0\ref\Zadacha 2 02.12.24.dll
