@@ -13,13 +13,14 @@
             Console.WriteLine("Enter numbers in this format: \"command \"number 1\" \"number 2\"");
             Console.WriteLine("type space between the command and the numbers ");
             Console.WriteLine("Commands:");
+            Console.WriteLine("power \"number\" \"power\"");
             Console.WriteLine("add");
             Console.WriteLine("subtract");
             Console.WriteLine("divide");
             Console.WriteLine("multiply");
-            Console.WriteLine("type \"print\" to see the calculations history ");  
+            Console.WriteLine("Type \"print\" to see the calculations history");
+            Console.WriteLine("Type \"clear\" to clear the history");
             Console.WriteLine("To end the program type: \"end\"");
-
             string command;
             while ((command = Console.ReadLine().ToLower()) != "end")
             {
@@ -47,6 +48,10 @@
                     case "multiply":
                     {
                         Multiply(double.Parse(token[1]), double.Parse(token[2]));
+                            break;
+                    }case "power":
+                    {
+                        Power(double.Parse(token[1]), double.Parse(token[2]));
                             break;
                     }
                     case "print":
@@ -96,6 +101,14 @@
             {
                 Console.WriteLine("Dividing by zero is zero again!!!");
             }
+        }
+
+        static void Power(double a, double b)
+        {
+            Math.Pow(a, b);
+            string command = $"Power: {a} on power {b} = {Math.Pow(a, b):f2}";
+            Console.WriteLine($"{a} on power {b} = {Math.Pow(a, b):f2}");
+            stack.Push(command);
         }
         static void Print()
         {
