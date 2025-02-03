@@ -1,0 +1,15 @@
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\bin\Debug\net6.0\zadacha.exe
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\bin\Debug\net6.0\zadacha.deps.json
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\bin\Debug\net6.0\zadacha.runtimeconfig.json
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\bin\Debug\net6.0\zadacha.dll
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\bin\Debug\net6.0\zadacha.pdb
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfo.cs
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.sourcelink.json
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.dll
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\refint\zadacha.dll
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.pdb
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\zadacha.genruntimeconfig.cache
+C:\Users\milen\Desktop\School-programing\zadacha\zadacha\obj\Debug\net6.0\ref\zadacha.dll

@@ -1,0 +1,15 @@
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\bin\Debug\net8.0\Opashka na magazin.exe
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\bin\Debug\net8.0\Opashka na magazin.deps.json
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\bin\Debug\net8.0\Opashka na magazin.runtimeconfig.json
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\bin\Debug\net8.0\Opashka na magazin.dll
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\bin\Debug\net8.0\Opashka na magazin.pdb
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.AssemblyInfo.cs
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.sourcelink.json
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.dll
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\refint\Opashka na magazin.dll
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.pdb
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\Opashka na magazin.genruntimeconfig.cache
+C:\Users\milen\Desktop\School-programing\Opashka na magazin\Opashka na magazin\obj\Debug\net8.0\ref\Opashka na magazin.dll
