@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\Visual Studio\\SoftUni-Advanced-module\\Homework 16.02.25\\",
+  "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\School-programing\\Homework 16.02.25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F9D782C-3F3A-4ABB-9F11-330BAD1B5462}|Array list bubble sort\\Array list bubble sort.csproj|c:\\users\\milen\\desktop\\visual studio\\softuni-advanced-module\\homework 16.02.25\\array list bubble sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F9D782C-3F3A-4ABB-9F11-330BAD1B5462}|Array list bubble sort\\Array list bubble sort.csproj|c:\\users\\milen\\desktop\\school-programing\\homework 16.02.25\\array list bubble sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F9D782C-3F3A-4ABB-9F11-330BAD1B5462}|Array list bubble sort\\Array list bubble sort.csproj|solutionrelative:array list bubble sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B21728B2-5A70-43BB-B7A3-1B553EC21AF0}|Linked list bubble sort\\Linked list bubble sort.csproj|c:\\users\\milen\\desktop\\visual studio\\softuni-advanced-module\\homework 16.02.25\\linked list bubble sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B21728B2-5A70-43BB-B7A3-1B553EC21AF0}|Linked list bubble sort\\Linked list bubble sort.csproj|c:\\users\\milen\\desktop\\school-programing\\homework 16.02.25\\linked list bubble sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B21728B2-5A70-43BB-B7A3-1B553EC21AF0}|Linked list bubble sort\\Linked list bubble sort.csproj|solutionrelative:linked list bubble sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{543d4543-bb45-5b56-8c02-b06ad75836e1}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\SoftUni-Advanced-module\\Homework 16.02.25\\Array list bubble sort\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\School-programing\\Homework 16.02.25\\Array list bubble sort\\Program.cs",
               "RelativeDocumentMoniker": "Array list bubble sort\\Program.cs",
-              "ToolTip": "C:\\Users\\milen\\Desktop\\Visual Studio\\SoftUni-Advanced-module\\Homework 16.02.25\\Array list bubble sort\\Program.cs*",
-              "RelativeToolTip": "Array list bubble sort\\Program.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAANAAAA",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\School-programing\\Homework 16.02.25\\Array list bubble sort\\Program.cs",
+              "RelativeToolTip": "Array list bubble sort\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T20:04:43.827Z",
               "EditorCaption": ""
@@ -41,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\Visual Studio\\SoftUni-Advanced-module\\Homework 16.02.25\\Linked list bubble sort\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\School-programing\\Homework 16.02.25\\Linked list bubble sort\\Program.cs",
               "RelativeDocumentMoniker": "Linked list bubble sort\\Program.cs",
-              "ToolTip": "C:\\Users\\milen\\Desktop\\Visual Studio\\SoftUni-Advanced-module\\Homework 16.02.25\\Linked list bubble sort\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\School-programing\\Homework 16.02.25\\Linked list bubble sort\\Program.cs",
               "RelativeToolTip": "Linked list bubble sort\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA1wBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

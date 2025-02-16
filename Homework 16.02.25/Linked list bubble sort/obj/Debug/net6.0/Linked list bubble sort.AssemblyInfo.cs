@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Linked list bubble sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ca9ae25320e2663a798792b2b8205ebcab75132")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698a267505dacbebf9f839d767969fc28012dee9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Linked list bubble sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Linked list bubble sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,14 +24,14 @@ namespace Array_list_bubble_sort
                 }
             }
 
-            Print(array);
+            Sorting(array);
 
             foreach (var VARIABLE in array)
             {
                 Console.WriteLine(VARIABLE);
             }
         }
-        static void Print(ArrayList arrList)
+        static void Sorting(ArrayList arrList)
         {
             for (int i = 0; i < arrList.Count; i++)
             {
