@@ -1,0 +1,15 @@
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\bin\Debug\net6.0\Linked list bubble sort.exe
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\bin\Debug\net6.0\Linked list bubble sort.deps.json
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\bin\Debug\net6.0\Linked list bubble sort.runtimeconfig.json
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\bin\Debug\net6.0\Linked list bubble sort.dll
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\bin\Debug\net6.0\Linked list bubble sort.pdb
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.AssemblyInfo.cs
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.sourcelink.json
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.dll
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\refint\Linked list bubble sort.dll
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.pdb
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\Linked list bubble sort.genruntimeconfig.cache
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Linked list bubble sort\obj\Debug\net6.0\ref\Linked list bubble sort.dll

@@ -1,0 +1,15 @@
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\bin\Debug\net6.0\Array list bubble sort.exe
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\bin\Debug\net6.0\Array list bubble sort.deps.json
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\bin\Debug\net6.0\Array list bubble sort.runtimeconfig.json
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\bin\Debug\net6.0\Array list bubble sort.dll
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\bin\Debug\net6.0\Array list bubble sort.pdb
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.AssemblyInfo.cs
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.sourcelink.json
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.dll
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\refint\Array list bubble sort.dll
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.pdb
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\Array list bubble sort.genruntimeconfig.cache
+C:\Users\milen\Desktop\Visual Studio\SoftUni-Advanced-module\Homework 16.02.25\Array list bubble sort\obj\Debug\net6.0\ref\Array list bubble sort.dll
