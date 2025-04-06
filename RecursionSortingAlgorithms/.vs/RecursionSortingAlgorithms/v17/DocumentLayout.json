@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820A513C-2F03-40C1-8293-99C7023E9C70}|InsertionSort\\InsertionSort.csproj|c:\\users\\milen\\desktop\\school-programing\\recursionsortingalgorithms\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820A513C-2F03-40C1-8293-99C7023E9C70}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E03023-7C2A-4501-8DC6-13380F0033BD}|BubbleSort\\BubbleSort.csproj|c:\\users\\milen\\desktop\\school-programing\\recursionsortingalgorithms\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E03023-7C2A-4501-8DC6-13380F0033BD}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DB0D5A-20C4-4459-AE78-90BCFDB8D2C5}|SelectionSort\\SelectionSort.csproj|c:\\users\\milen\\desktop\\school-programing\\recursionsortingalgorithms\\selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DB0D5A-20C4-4459-AE78-90BCFDB8D2C5}|SelectionSort\\SelectionSort.csproj|solutionrelative:selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\SelectionSort\\Program.cs",
+              "RelativeDocumentMoniker": "SelectionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\SelectionSort\\Program.cs",
+              "RelativeToolTip": "SelectionSort\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:28:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\InsertionSort\\Program.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\InsertionSort\\Program.cs",
+              "RelativeToolTip": "InsertionSort\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:27:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\School-programing\\RecursionSortingAlgorithms\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "BubbleSort\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:27:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{543d4543-bb45-5b56-8c02-b06ad75836e1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
