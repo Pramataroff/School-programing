@@ -1,0 +1,60 @@
+﻿namespace MergeSortGrades
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Wuwedi celi ocenki ot 2 do 6");
+            int[] grades = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
+            Console.WriteLine("Sorted");
+            MergeSort(grades, 0, grades.Length - 1);
+            Console.WriteLine(string.Join(" ", grades));
+
+        }
+        static void MergeSort(int[] arr, int left, int right)
+        {
+            if (left < right)
+            {
+                int middle = (left + right) / 2;
+
+                MergeSort(arr, left, middle);
+                MergeSort(arr, middle + 1, right);
+
+                Merge(arr, left, right, middle);
+            }
+        }
+        static void Merge(int[] arr, int left, int right, int middle)
+        {
+            int leftArrLength = middle - left + 1;
+            int rightArrLength = right - middle;
+
+            int[] leftArr = new int[leftArrLength];
+            int[] rightArr = new int[rightArrLength];
+
+            for (int h = 0; h < leftArrLength; h++) leftArr[h] = arr[left + h];
+            for (int g = 0; g < rightArrLength; g++) rightArr[g] = arr[middle + 1 + g];
+
+            int i = 0, j = 0, k = left;
+
+            while (i < leftArrLength && j < rightArrLength)
+            {
+                if (leftArr[i] <= rightArr[j])
+                {
+                    arr[k] = leftArr[i];
+                    i++;
+                }
+                else
+                {
+                    arr[k] = rightArr[j];
+                    j++;
+                }
+                k++;
+            }
+            while (i < leftArrLength) arr[k++] = leftArr[i++];
+            while (j < rightArrLength) arr[k++] = rightArr[j++];
+        }
+
+
+
+    }
+}
