@@ -1,0 +1,11 @@
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant reservation.csproj.AssemblyReference.cache
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant_reservation.Form1.resources
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant_reservation.Properties.Resources.resources
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant reservation.csproj.GenerateResource.cache
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant reservation.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\bin\Debug\Restaurant reservation.exe.config
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\bin\Debug\Restaurant reservation.exe
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\bin\Debug\Restaurant reservation.pdb
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant reservation.exe
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant reservation.pdb
+C:\Users\milen\Desktop\School-programing\Restaurant reservation\Restaurant reservation\obj\Debug\Restaurant reservation.exe.config
